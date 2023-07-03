@@ -11,17 +11,17 @@ The functionality is replicated, so the changes can be seen from any client conn
 
 ### Images
 * OpenMenu \
-![DayNightCycle](img/1.OpenMenu.png)
+![OpenMenu](Img/1.OpenMenu.png)
 
 * SelectOption \
-![Inventory](img/2.SelectOption.png)
+![SelectOption](Img/2.SelectOption.png)
 
 * OptionSelected \
-![Minimap](img/3.OptionSelected.png)
+![OptionSelected](Img/3.OptionSelected.png)
 
 
 * SelectAnotherActor \
-![NPC](img/4.SelectAnotherOption.png)
+![SelectAnotherOption](Img/4.SelectAnotherOption.png)
 
 * AnotherOptionSelected \
-![Weapon](img/5.AnotherOptionSelected.png)
+![AnotherOptionSelected](Img/5.AnotherOptionSelected.png)
